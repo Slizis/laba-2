@@ -1,0 +1,38 @@
+body {
+  background: #ffffff;
+  }
+  .wrapper {
+  margin: 0 auto;
+  overflow: hidden;
+  width: 600px;
+  height: 600px;
+  background: url(fon/qx7bdtbLcLA.jpg);
+  border-radius: 10px;
+  border: 1px solid #949493;
+  box-shadow: 3px 3px 7px #000;
+  }
+  .main {
+  margin: 0 auto ;
+  margin-top: 5px;
+  width: 220px;
+  }
+  .display input {
+  background: #ccc;
+  margin: 0 auto;
+  overflow: hidden;
+  width: 500px;
+  height: 40px;
+  border-radius: 5px;
+  font-size: 24px;
+  flex-direction: column;
+  align-items: center;
+  }
+  .buttons input {
+  background: rgb(74, 235, 213);
+  margin: 0 auto;
+  overflow: hidden;
+  width: 120px;
+  height: 120px;
+  border-radius: 5px;
+  font-size: 24px;
+  }
